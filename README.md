@@ -1,4 +1,4 @@
- ASCII Plotter:
+ASCII Plotter:
  You need to print the graph of a mathematical function y = f(x) of a single (real) variable using an ancient
  line printer.
  Obviously, accuracy of the graph would be far from perfect.
@@ -42,5 +42,4 @@
           **                **
             **            **                                                    
               ***      ***
-                 ******   
-                   
+                 ******                                                         
