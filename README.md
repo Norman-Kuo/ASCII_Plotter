@@ -18,7 +18,7 @@
  For example, a call to draw_plot(math.sin, -math.pi, math.pi, -1.1, 1.1, 25, 80)
  would produce a plot similar to this:
                                                                                        
-"""
+
                                                          ******
                                                       ***      ***
                                                     **            **
@@ -43,4 +43,4 @@
             **            **                                                    
               ***      ***
                  ******   
-"""                      
+                   
