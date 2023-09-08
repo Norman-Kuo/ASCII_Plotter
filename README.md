@@ -1,4 +1,3 @@
-# ASCII_Plotter
  ASCII Plotter:
  You need to print the graph of a mathematical function y = f(x) of a single (real) variable using an ancient
  line printer.
@@ -19,7 +18,7 @@
  For example, a call to draw_plot(math.sin, -math.pi, math.pi, -1.1, 1.1, 25, 80)
  would produce a plot similar to this:
                                                                                        
-
+"""
                                                          ******
                                                       ***      ***
                                                     **            **
@@ -32,9 +31,9 @@
                                           *                                  *
                                          *                                    *
                                         *                                      *
-**                                      *
- **                                    *
-  **                                  *
+*                                      *
+ *                                    *
+  *                                  *
    **                              **
      *                            *
       *                          *
@@ -43,4 +42,5 @@
           **                **
             **            **                                                    
               ***      ***
-                 ******                         
+                 ******   
+"""                      
